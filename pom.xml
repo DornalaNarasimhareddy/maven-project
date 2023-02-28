@@ -26,9 +26,9 @@
 
   <distributionManagement>
     <repository>
-      <id>maven-releases</id>
-      <name>maven-releases</name>
-      <url>http://13.235.244.12:8081/service/rest/repository/browse/maven-releases/</url>
+      <id>maven-snapshot</id>
+      <name>maven-snapshot</name>
+      <url>http://13.235.244.12:8081/service/rest/repository/browse/maven-snapshots</url>
     </repository>
   </distributionManagement>
 
