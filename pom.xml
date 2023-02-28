@@ -25,11 +25,11 @@
   </modules>
 
   <distributionManagement>
-    <site>
+    <repository>
       <id>maven-releases</id>
       <name>maven-releases</name>
       <url>http://13.235.244.12:8081/service/rest/repository/browse/maven-releases/</url>
-    </site>
+    </repository>
   </distributionManagement>
 
   <build>
